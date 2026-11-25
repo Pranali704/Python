@@ -1,0 +1,31 @@
+OOPS: Python is an object-oriented language,allowing you to structure your code using lasses ans objects for better organization and reusability.
+#Advantages:
+1) Provides a clear structure
+
+CLASS and object
+demo in oops-demo.py file.
+CLass:
+Attributes:associated with value
+MEthods - functions
+
+#Constructor:
+1.__init__() is called automatically when an object is created.
+2.self refers to current object
+3.can take parameters
+4.Every object gets its own copy of instance variableds initialized by self.
+
+Data Member :
+1)Instance Data Member a.Declared using self.
+                       b.Each object gets its own copy
+                       c.Changes in one object do not affect other objects.
+
+2)Class Data Member: a.Declared inside the class but outside methods.
+                     b.Shared by all objects of the class.
+                     c.Only one copy exists.
+
+3)Private Data Members: a.Begin with double underscore(_)
+                     b.Cannot be directly accessed outside the class
+                     c.Used for data hiding and encapsulation.
+
+
+DATA MEMBER COMPARISON:

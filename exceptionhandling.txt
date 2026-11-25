@@ -16,3 +16,5 @@ Exception handling is done in the EXCEPT block
 The ELSE block is executed for normal behaviour
 The FINALLY block is executed regardless of the result of the try and except blocks
 Try, Except, Else, Finally
+
+write a code for calculator considering all EXECPTION
